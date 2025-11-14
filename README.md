@@ -92,10 +92,13 @@ I focus on **automating everything, improving reliability, and designing clean, 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa&layout=compact&theme=tokyonight" />
-</p>
+---
 
+## 🏆 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 <h3 align="center">🚀 “Automate Everything — Scale Everything — Secure Everything”</h3>
