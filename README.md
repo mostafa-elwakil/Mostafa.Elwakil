@@ -24,12 +24,16 @@
   <a href="https://www.linkedin.com/in/mostafa-elwakil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mostafa.elwakil.tech@gmail.com">
+  <a href="mailto:m.abdelwakil7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:mostafa@trend-bot.com">
+    <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
+
 
 # ⚙️ About Me
 
