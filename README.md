@@ -1,10 +1,9 @@
 <!-- ===========================
-    🔥 HEADER / BANNER
+    🔥 PROFESSIONAL BANNER
 =========================== -->
 
 <p align="center">
-  <!-- ⛔ Replace this with your real banner when you upload your picture -->
-  <img src="https://via.placeholder.com/1000x260.png?text=Mostafa+Abd+Elwakil+-+DevOps+Engineer" />
+  <img src="https://via.placeholder.com/1000x260/0d1117/00e5ff?text=Mostafa+Abd+Elwakil+-+DevOps+Engineer+-+Linux+%7C+Windows+%7C+Cloud+%7C+Automation+%7C+CI%2FCD" />
 </p>
 
 <h1 align="center">🚀 Mostafa Abd Elwakil | DevOps & System Engineer</h1>
@@ -34,44 +33,45 @@
 
 # ⚙️ About Me
 
-I am a **DevOps & Senior System Engineer** with strong experience in cloud platforms, Linux systems, CI/CD automation, system deployment, IT infrastructure, monitoring, and developing scalable, secure environments across multi-cloud ecosystems.
+I am a **DevOps & Senior System Engineer** with strong experience in Linux & Microsoft systems, cloud infrastructure, CI/CD pipelines, automation, monitoring, and building scalable, secure, high-performance environments.
 
-I focus on automating everything, reducing manual workloads, improving reliability, and designing clean, efficient infrastructure.
+I focus on **automating everything, improving reliability, and designing clean, efficient systems**.
 
 ---
 
 # 🛠️ Tech Stack & Skills
 
-### 🚀 DevOps, Cloud & Infrastructure
-- **Docker • Kubernetes**
-- **Terraform • Ansible**
-- **Jenkins • GitHub Actions • GitLab CI/CD**
-- **AWS • Azure • Oracle Cloud • Huawei Cloud**
-- **Nginx • Apache • HAProxy**
-- **Linux Administration (Ubuntu, CentOS, SUSE)**
+### 🧩 Core Expertise
+- Linux System Administration (Ubuntu, CentOS, SUSE)  
+- Microsoft System Administration (AD, DNS, DHCP, GPO, Windows Server)  
+- Backup & Storage Solutions (UrBackup, Veeam, NAS, Snapshots)  
+- System Engineering & Infrastructure Design  
+
+### 🚀 DevOps, Cloud & Automation
+- Docker • Kubernetes  
+- Terraform • Ansible  
+- Jenkins • GitHub Actions • GitLab CI/CD  
+- AWS • Azure • Oracle Cloud • Huawei Cloud  
+- Nginx • Apache • HAProxy  
 
 ### 💻 Development & Backend
-- **C#**
-- **Python Frameworks:** Django • Flask • FastAPI
-- JavaScript
-- HTML / CSS
+- C#  
+- Python Frameworks: Django • Flask • FastAPI  
+- JavaScript • HTML • CSS  
 
 ### 📦 APIs & Documentation
-- Swagger / OpenAPI
+- Swagger / OpenAPI  
 
 ### 🔌 Hardware & Embedded Systems
-- Arduino
+- Arduino  
 
 ### 🎨 Design & Content Creation
-- Adobe Photoshop  
-- Adobe Lightroom  
-- Adobe Premiere
+- Adobe Photoshop • Adobe Lightroom • Adobe Premiere  
 
-### 🗂 Productivity, Tools & Analytics
+### 🗂 Productivity & Analytics
 - Office 365 Admin  
-- Trello  
-- Notion  
-- Power BI
+- Trello • Notion  
+- Power BI  
 
 ---
 
