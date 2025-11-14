@@ -47,6 +47,12 @@ I focus on **automating everything, improving reliability, and designing clean, 
 - Backup & Storage Solutions (UrBackup, Veeam, NAS, Snapshots)  
 - System Engineering & Infrastructure Design  
 
+### 🖥️ Virtualization Technology
+- VMware vSphere / ESXi  
+- Hyper-V  
+- Proxmox VE  
+- KVM / QEMU  
+
 ### 🚀 DevOps, Cloud & Automation
 - Docker • Kubernetes  
 - Terraform • Ansible  
