@@ -2,9 +2,9 @@
     🔥 PROFESSIONAL BANNER
 =========================== -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://via.placeholder.com/1000x260/0d1117/00e5ff?text=Mostafa+Abd+Elwakil+-+DevOps+Engineer+-+Linux+%7C+Windows+%7C+Cloud+%7C+Automation+%7C+CI%2FCD" />
-</p>
+</p> -->
 
 <h1 align="center">🚀 Mostafa Abd Elwakil | DevOps & System Engineer</h1>
 
